@@ -1,0 +1,5 @@
+1001	Nikhil	97
+1002	Jaadu	96
+1003	Roshin	95
+1004	Chottu	94
+1005	Priya	93
